@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+/* @media (max-width: 770px) {
+  .what_we_offer_card {
+    flex-direction: column;
+  }
+} */
+
+.pi_card {
+  min-height: 1000 !important;
+  background-color: #61dafb;
+}
+.card_1stRow {
+  justify-content: space-between;
+  background-color: #282c34;
+}
